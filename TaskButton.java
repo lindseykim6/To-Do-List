@@ -4,6 +4,12 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 
+/**
+ * Task Button class
+ *
+ * @author Lindsey Kim
+ */
+
 @SuppressWarnings("serial")
 public class TaskButton extends JButton{
 	private Task task;
