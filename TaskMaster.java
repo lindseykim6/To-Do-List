@@ -1,4 +1,10 @@
 
+/**
+ * To Do List Task handler
+ *
+ * @author Lindsey Kim
+ */
+
 public class TaskMaster {
 
 	public static void main(String[] args) {
