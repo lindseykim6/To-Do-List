@@ -6,8 +6,8 @@ import javax.swing.JFrame;
  * This is the driver class.
  *
  * @author CS121 Instructors
- * @version [semester]
- * @author [your name]
+ * @version 2020
+ * @author Lindsey Kim
  */
 public class UltimateTaskMaster
 {
