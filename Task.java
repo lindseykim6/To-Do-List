@@ -76,7 +76,7 @@ public class Task implements Comparable <Task>{
 		}
 	}
 	
-	//
+	//compares two tasks and returns 0 if they are the same, -1 if the one being compared to has a higher priority, and 1 if else
 	public int compareTo(Task o) {
 		if (this.complete==o.isComplete()){
 			if (this.priority==o.getPriority()) {
