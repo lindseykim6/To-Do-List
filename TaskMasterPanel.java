@@ -24,8 +24,8 @@ import java.util.Scanner;
  * It contains a ToDoListPanel and the control sub-panel.
  * 
  * @author CS121 Instructors
- * @version [semester]
- * @author [your name]
+ * @version 2020
+ * @author Lindsey Kim
  */
 @SuppressWarnings("serial")
 public class TaskMasterPanel extends JPanel
