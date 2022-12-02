@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * To Do List class
+ *
+ * @author Lindsey Kim
+ */
 public class ToDoList implements ToDoListInterface{
 	private String name;
 	private ArrayList<Task> tasks;
