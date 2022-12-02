@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 @SuppressWarnings("serial")
 
 /**
- * 2048 game interface
+ * To Do List panel
  * @author Boise State CS Department
  * @author Lindsey Kim
  */
