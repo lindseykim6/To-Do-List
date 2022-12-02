@@ -10,6 +10,12 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 @SuppressWarnings("serial")
+
+/**
+ * 2048 game interface
+ * @author Boise State CS Department
+ * @author Lindsey Kim
+ */
 public class ToDoListPanel extends JPanel{
 	private ToDoList list;
 	private String name;
