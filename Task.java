@@ -1,4 +1,8 @@
-
+/**
+ * Task class
+ *
+ * @author Lindsey Kim
+ */
 public class Task implements Comparable <Task>{
 	
 	public enum Category {PERSONAL,WORK, OTHER, NONE}
